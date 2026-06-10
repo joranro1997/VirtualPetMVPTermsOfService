@@ -84,5 +84,4 @@ date here and, where appropriate, an in-app notice.
 
 ## 12. Contact
 
-Questions about these Terms: **support@retropet.app** *(replace with your real
-address)*.
+Questions about these Terms: **midwayofdraenor@gmail.com**
