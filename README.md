@@ -5,10 +5,6 @@
 These Terms govern your use of the RetroPet mobile app ("RetroPet"). By using
 RetroPet you agree to these Terms. If you do not agree, do not use the app.
 
-> **Owner action required before launch:** publish this document at a public
-> HTTPS URL and enter it where required (e.g. App Store Connect / Google Play and
-> in `app.json › expo.extra.legal`).
-
 ## 1. Eligibility
 
 You must be at least 13 years old (or the minimum age of digital consent in your
