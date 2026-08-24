@@ -1,6 +1,6 @@
 # RetroPet — Terms of Service
 
-**Effective date:** 10 June 2026
+**Effective date:** 15 August 2026
 
 These Terms govern your use of the RetroPet mobile app ("RetroPet"). By using
 RetroPet you agree to these Terms. If you do not agree, do not use the app.
@@ -24,6 +24,9 @@ and/or subscriptions.
 
 - Virtual coins and items have **no real-world monetary value**, cannot be
   exchanged for cash, and are licensed to you for in-app use only.
+- Some items can be **exchanged between players** through in-app connection
+  features. Such exchanges are part of gameplay, are final, and do not give
+  virtual items any monetary value or create any ownership rights.
 - Purchases are processed by the Apple App Store or Google Play. Prices,
   billing and renewals are governed by those stores.
 - **Subscriptions** (if offered) renew automatically until cancelled; manage or
@@ -73,11 +76,20 @@ of these Terms.
 
 Your use of RetroPet is also governed by our Privacy Policy.
 
-## 11. Changes to these Terms
+## 11. Apple
+
+If you use RetroPet on an Apple device: these Terms are between you and us, not
+Apple. Apple is not responsible for the app or its content and has no obligation
+to provide maintenance or support for it. To the extent permitted by law, Apple
+has no warranty obligations and is not responsible for any claims relating to
+the app. Apple and its subsidiaries are third-party beneficiaries of these
+Terms and may enforce them against you.
+
+## 12. Changes to these Terms
 
 We may update these Terms. Material changes will be reflected by a new effective
 date here and, where appropriate, an in-app notice.
 
-## 12. Contact
+## 13. Contact
 
 Questions about these Terms: **midwayofdraenor@gmail.com**
